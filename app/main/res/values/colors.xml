@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#AAAAAA</color>
+
+    <!--Contact page-->
+    <color name="blue">#2297EB</color>
+    <color name="yellow">#f5e72c</color>
+    <color name="green">#52c121</color>
+    <color name="red">#d10f3a</color>
+    <color name="lightGray">#e7e7e7</color>
+
+    <!--Danger Levels-->
+    <color name="danger_level_1">#45ee7c</color>
+    <color name="danger_level_2">#466bf0</color>
+    <color name="danger_level_3">#f0e146</color>
+    <color name="danger_level_4">#f0a446</color>
+    <color name="danger_level_5">#f04646</color>
+
+
+</resources>
