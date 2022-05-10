@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llContactItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp">
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="TextView"
+            android:textSize="20sp"/>
+        <TextView
+            android:id="@+id/tvPhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="TextView"
+            android:textSize="14sp"
+            android:layout_marginTop="5dp"/>
+    </LinearLayout>
+    <CheckBox
+        android:id="@+id/cbIsGpsOn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Receive GPS"
+        android:clickable="false"
+        android:layout_marginRight="5dp"/>
+    <ImageView
+        android:id="@+id/ivEdit"
+        android:padding="5dp"
+        android:layout_weight="0.01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_edit"/>
+
+    <ImageView
+        android:id="@+id/ivDelete"
+        android:padding="5dp"
+        android:layout_weight="0.01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_delete"
+        android:layout_marginRight="10dp"/>
+
+</LinearLayout>
