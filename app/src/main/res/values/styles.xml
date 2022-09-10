@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme_Dialog" parent = "Theme.AppCompat.Dialog">
+        <item name="android:windowMinWidthMinor">90%</item>
+        <item name="android:windowMinWidthMajor">90%</item>
+    </style>
+    <style name = "AppCompatTheme" parent = "@style/Theme.AppCompat.Light">
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name = "normalBtn" parent="Widget.AppCompat.ActionButton">
+        <item name = "android:textColorPrimary">#ffffff</item>
+        <item name = "background">@color/teal_200</item>
+    </style>
+    <style name="danger_rating" parent="@android:style/Widget.RatingBar">
+        <item name="android:height">36dip</item>
+        <item name="android:width">36dip</item>
+        <item name="android:progressDrawable">@drawable/danger_ratingbar</item>
+    </style>
+
+    <style name="bottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle" >@style/bottomSheetStyle</item>
+    </style>
+
+    <style name="bottomSheetStyle" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="android:background" >@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+    </style>
+
+</resources>

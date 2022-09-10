@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/contact_circle.xml" value="0.2085" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/danger_layer_list.xml" value="0.1505" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/danger_ratingbar.xml" value="0.1505" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/danger_ratingbar_empty.xml" value="0.1505" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/danger_ratingbar_filled.xml" value="0.1505" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/ic_add.xml" value="0.2085" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/ic_alert.xml" value="0.2575" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/ic_circle.xml" value="0.1505" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/ic_location.xml" value="0.1505" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/ic_mylocation.xml" value="0.1505" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/ic_place.xml" value="0.1505" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/ic_remove.xml" value="0.1505" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/rounded_button.xml" value="0.2085" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/rounded_sheet.xml" value="0.1505" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/drawable/timer_circle_white.xml" value="0.2395" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/activity_contacts.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/activity_contacts2.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/activity_login.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/activity_nav_test.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/activity_stop_words.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/bottom_sheet_map.xml" value="0.22" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/comment_item.xml" value="0.33" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/comment_map_item.xml" value="0.33" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/contact_item.xml" value="0.33" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/danger_spot_sheet.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/dialog_update.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_contacts.xml" value="0.33" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_editcontact.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_gps_permission.xml" value="0.33" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_login.xml" value="0.33" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_map.xml" value="0.25" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_maps.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_signup.xml" value="0.1" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_stopwords.xml" value="0.33" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_timer.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/fragment_timer_set.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/layout/stopword_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/menu/custom_menu.xml" value="0.2127659574468085" />
+        <entry key="..\:/Users/alfar/AndroidStudioProjects/NoViolence/app/src/main/res/menu/drawer_items.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/homeFragment"
+        android:title="Home"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_home" />
+    <item android:id="@+id/loginFragment"
+        android:title="Profile"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_account" />
+    <item android:id="@+id/contactsFragment"
+        android:title="Contacts"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_phone" />
+    <item android:id="@+id/googleMapFragment"
+        android:title="Map"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_map"/>
+
+    <item android:id="@+id/nav_set_language"
+        android:title="More"
+        android:menuCategory="secondary">
+        <menu>
+            <item android:id="@+id/nav_set_RU"
+                android:title="RU"/>
+            <item android:id="@+id/nav_set_EN"
+                android:title="EN"/>
+        </menu>
+    </item>
+</menu>

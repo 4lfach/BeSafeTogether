@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!--Main page-->
+    <string name="mp_progress20">You are not safe</string>
+    <string name="mp_progress50">There is still a work to do</string>
+    <string name="mp_progress70">Almost safe</string>
+    <string name="mp_progress100">Congratulations</string>
+    <string name="mp_gps_on">GPS is on</string>
+    <string name="mp_contacts_set">Contacts are set</string>
+    <string name="mp_receive_gps">At least one contact recieves GPS info</string>
+    <string name="mp_police_informed">Police will be informed</string>
+    <string name="mp_details">You can add stop word or change password in settings menu.</string>
+
+    <!--Contact page-->
+    <string name="cp_update">Update Contact</string>
+    <string name="cp_add_contact_name">Name</string>
+    <string name="cp_add_contact_phone">Phone</string>
+    <string name="cp_btn_add_contact">Add Contact</string>
+    <string name="cp_tv_def_message">Set default message for contacts</string>
+    <string name="cp_et_message_hint">Type...</string>
+    <string name="cp_cb_police">Police informed</string>
+    <string name="cp_tv_police_details">Police will get GPS info by default.</string>
+    <string name="cp_btn_edit_number">Edit Number</string>
+    <string name="cp_name_hint">Enter Name</string>
+    <string name="cp_phone_hint">Enter Phone</string>
+    <string name="cp_btn_update">Update</string>
+    <string name="cp_btn_cancel">Cancel</string>
+    <string name="cp_tv_no_records">No available contacts.</string>
+    <string name="cp_btn_save_message">Save message</string>
+
+    <!--Home Page -->
+    <string name="hp_start_record">Start</string>
+
+    <!--Timer Page -->
+    <string name="tp_tv_set_timer">Set timer</string>
+    <string name="tp_tv_timer">Timer</string>
+
+    <!--Permission Page -->
+    <string name="pp_request_details">BeSafeTogether app requires the permission for geolocation service to function normally. Please allow the permission.</string>
+    <string name="pp_request_permission">Request permission</string>
+    <string name="mp_default_message_set">Default message is set</string>
+    <string name="lp_welcome_back">Welcome back</string>
+
+</resources>
